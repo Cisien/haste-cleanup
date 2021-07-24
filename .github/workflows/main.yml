@@ -1,4 +1,4 @@
-name: build-modix
+name: build-haste-cleanup
 on:
   push:
     branches: [ main ]
